@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"onwnable2.sol": "Ethwall"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"onwnable2.sol": {
+			"keccak256": "0x0062a16fd5cde02dac5defa82a0030f96045db6ebd0913e409f9ccf989ccf690",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0e734e21ad53660d3ed6e9200300b3e1894a3c108373066a7b58e4c6f496ac27",
+				"dweb:/ipfs/QmY6bWk7UGKcK7YaF2ivTVVBSs5uF481iG4pWSVeKkxBk8"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_opor",
+						"type": "address"
+					}
+				],
+				"name": "delcall",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"onwnable2.sol": "ggp"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"onwnable2.sol": {
+			"keccak256": "0xef97e0967a2576be8163025e2b07d765980e2d3c910518bdf1a19ed451f40c84",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3875a34d8b3eece4468545215ad6eed8b5bf51a48eb596606cdad04bfe9baa15",
+				"dweb:/ipfs/QmSheN5uuCQoUwmoc4G8esUgTmLpWxFqf5xrZrRsNnEczq"
+			]
+		}
+	},
+	"version": 1
+}
